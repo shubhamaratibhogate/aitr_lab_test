@@ -1,0 +1,2 @@
+a=("hi class today is our ai lab so ready for it")
+print(a)
